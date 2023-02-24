@@ -12,7 +12,7 @@ IMPLEMENTATION
 - Managers classes are made to have the methods for which how the different classses would interact with one another.
 - Everything is displayed and instantiated in the driver class.
 
-DOWNLOAD
+RUNNING THE PROGRAM LOCALLY
 - Download all the files in the repository
 - Put all the files in one folder
 - Open a IDE for Java (E.g. Eclipse)
