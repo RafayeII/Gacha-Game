@@ -15,5 +15,6 @@ IMPLEMENTATION
 DOWNLOAD
 - Download all the files in the repository
 - Put all the files in one folder
-- Open and IDE for Java (E.g. Eclipse)
+- Open a IDE for Java (E.g. Eclipse)
+- Open the folder where you put all the files
 - Run the program
